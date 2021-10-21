@@ -7,7 +7,7 @@
 1. I will tweet about my progress every day -> by tagging [@CyberJunk15](https://twitter.com/CyberJunk15) & using the hashtag #100DaysOfCode. 
 2. I will push code to GitHub every day so that anyone can see my progress.
 3. If I code at work, that time won't count towards the challenge.
-4. I will update the (Log)[LOG.md] with the day's progress and provide a link so that others can see my progress.
+4. I will update the [Log](LOG.md) with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge.
 
 ## To-Do to be More Productive:
