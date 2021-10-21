@@ -19,3 +19,7 @@
 
 ## NOTE🗒️
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@parsan26](https://twitter.com/parsan26)
+
+# More to come during the code camp: 
+* Weekly two spaces on twitters.
+* Get a chance to come to the cyberjunk live stage at twitch discord and get a chance to meet awesome coders and learn from success stories.
