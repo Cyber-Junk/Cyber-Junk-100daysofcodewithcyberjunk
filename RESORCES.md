@@ -18,6 +18,6 @@ Complete guide for [#100daysofcode](https://www.geeksforgeeks.org/100-days-of-co
 3. "Mastering JavaScript" by Ved Antani
 
 > If you run into any error feel free to come in community to clarify your doubts and discuss awesome ideas.
-> LinkedIn: https://www.linkedin.com/company/79678875/admin/
-> Twitter: https://twitter.com/CyberJunk15
-> Discord: https://discord.gg/ZmCmkw2enz
+> * LinkedIn: https://www.linkedin.com/company/79678875/admin/
+> * Twitter: https://twitter.com/CyberJunk15
+> * Discord: https://discord.gg/ZmCmkw2enz
