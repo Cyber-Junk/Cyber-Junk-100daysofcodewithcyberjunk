@@ -13,7 +13,7 @@
 5.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
 6.  Change the date in [LOG](LOG.md) to the day you've started the challenge.
 7.  Delete the illustration in the [**LOG**](LOG.md) and start with your own.
-8.  **Tweet your progress every day using the #100daysofcode hashtag and tag @CyberJunnk15.**
+8.  **Tweet your progress every day using the #100daysofcode hashtag and tag @CyberJunk_ .**
 9.  **Important:** (see No.5 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple of people (or more) right away.
 10.  If you find an outstanding, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or tweet to me (see info below)
 
@@ -21,7 +21,7 @@
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@parsan26](https://twitter.com/parsan26)
 * Reach Out to The community:
 * LinkedIn: https://www.linkedin.com/company/79678875/admin/
-* Twitter: https://twitter.com/CyberJunk15
+* Twitter: https://twitter.com/CyberJunk_
 * Discord: https://discord.gg/ZmCmkw2enz
 
 # More to come during the code camp: 
